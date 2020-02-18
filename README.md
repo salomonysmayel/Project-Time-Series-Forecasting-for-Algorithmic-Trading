@@ -22,10 +22,13 @@ The following is a plot of the historic prices for Devon Energy and the MACD wit
 
 Four signal points from the sequence 4-27-2018 to the present were studied.
 
-![model setup](/images/model.png)
-![model setup](/images/model.png)
-![model setup](/images/model.png)
-![model setup](/images/model.png)
+![model setup](/images/real1.png)
+
+![model setup](/images/real2.png)
+
+![model setup](/images/real3.png)
+
+![model setup](/images/real4.png)
 
 The model was trained on both the slow and the fast time series. one for the 10 day window sequence and one for the 40 day window sequence. The model is a stacked recurrent neural network. 
 
@@ -35,7 +38,7 @@ To prepare the data that is fit on the model first we have to split it, this was
 
 The results obtained were the following
 
-![model setup](/images/model.png)
+![model setup](/images/res.png)
 ![model setup](/images/model.png)
 ![model setup](/images/model.png)
 ![model setup](/images/model.png)
