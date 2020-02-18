@@ -38,16 +38,22 @@ To prepare the data that is fit on the model first we have to split it, this was
 
 The results obtained were the following
 
-![model setup](/images/res.png)
-![model setup](/images/model.png)
-![model setup](/images/model.png)
-![model setup](/images/model.png)
+![model setup](/images/result1df.png)
+
+![model setup](/images/result2df.png)
+
+![model setup](/images/result3df.png)
+
+![model setup](/images/result4df.png)
 
 Plotting the red crossover signal with the forecasted crossover signal we can see that in 3 of the 4 studied cases the model predicted a crossover signal before the MACD. 
 
-![model setup](/images/model.png)
-![model setup](/images/model.png)
-![model setup](/images/model.png)
-![model setup](/images/model.png)
+![model setup](/images/result1plot.png)
+
+![model setup](/images/result2plot.png)
+
+![model setup](/images/result3plot.png)
+
+![model setup](/images/result4plot.png)
 
 This results show that there is a possibility that an RNN can be used to refine trend analysis making certain technical indicators more powerful. 
