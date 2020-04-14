@@ -1,4 +1,3 @@
-# Final Project 
 
 ## Salomon Ysmáyel
 
